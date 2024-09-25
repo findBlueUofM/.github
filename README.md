@@ -1,1 +1,5 @@
-# .github
+
+# findBlue
+
+Welcome to findBlue!
+
